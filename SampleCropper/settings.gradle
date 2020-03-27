@@ -1,0 +1,2 @@
+rootProject.name='SampleCropper'
+include ':app', ':cropper'
